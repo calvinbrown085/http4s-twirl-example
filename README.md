@@ -1,4 +1,4 @@
-# Http4s Twirl Example
+# Http4s Twirl Example [![Build Status](https://travis-ci.org/calvinbrown085/http4s-twirl-example.svg?branch=master)](https://travis-ci.org/calvinbrown085/http4s-twirl-example)
 
 Welcome to using twirl with http4s!
 
